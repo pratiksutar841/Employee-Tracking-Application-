@@ -1,4 +1,4 @@
 # Employee-Tracking-Application-
-PW Skills 
+PW Skills - Physics Wallah
 <br>
 Internship Project
